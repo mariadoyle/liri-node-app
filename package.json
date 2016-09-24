@@ -1,0 +1,18 @@
+{
+  "name": "desktop",
+  "version": "1.0.0",
+  "description": "liri-node-app",
+  "main": "keys.js",
+  "dependencies": {
+    "request": "^2.75.0",
+    "spotify": "^0.3.0",
+    "twitter": "^1.4.0",
+    "inquirer": "^1.1.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maria Doyle",
+  "license": "ISC"
+}
